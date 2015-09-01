@@ -8,3 +8,22 @@
 ```
 $ npm install --save @jinsyaoommen/obj-prop-util
 ```
+
+## Example
+
+```
+import {camelCaseKeys, snakeCaseKeys} from 'obj-prop-util';
+
+const foo = {
+  fooBar: 'baz'
+};
+
+const bar = {
+  foo_bar: 'baz'
+};
+
+console.log(snakeCaseKeys(foo));
+
+console.log(camelCaseKeys(bar));
+
+```
