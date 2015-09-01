@@ -1,13 +1,13 @@
 {
   "name": "@jinsyaoommen/obj-prop-util",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utilities for object manipulation",
   "repository": "jinsyaoommen@gmail.com/obj-util",
   "author": {
     "name": "jinsyaoommen",
     "email": "jinsyaoommen@gmail.com"
   },
-  "main": "es5/index.js",
+  "main": "es5/transformObjectProperties.js",
   "engines": {
     "node": ">=0.10.0"
   },
