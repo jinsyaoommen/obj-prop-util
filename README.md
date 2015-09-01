@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save @jinsyaoommen/obj-prop-util
+$ npm install --save obj-prop-util
 ```
 
 ## Example
